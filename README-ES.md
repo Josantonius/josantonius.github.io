@@ -4,7 +4,7 @@
 
 ## Páginas
 
-**Vue Draggable Tags:** [Demostración](https://josantonius.github.io/vue-draggable-tags/) | [Repositorio](https://josantonius.github.io/vue-draggable-tags/)
+- **Vue Draggable Tags:** [Demostración](https://josantonius.github.io/vue-draggable-tags/) | [Repositorio](https://josantonius.github.io/vue-draggable-tags/)
 
 ## Copyright
 
