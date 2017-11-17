@@ -2,9 +2,9 @@
 
 [English version](README.md)
 
-## Vue Draggable Tags
+## Páginas
 
-[Demostración](https://josantonius.github.io/vue-draggable-tags/) - [Repositorio](https://josantonius.github.io/vue-draggable-tags/)
+**Vue Draggable Tags:** [Demostración](https://josantonius.github.io/vue-draggable-tags/) | [Repositorio](https://josantonius.github.io/vue-draggable-tags/)
 
 ## Copyright
 
